@@ -1,0 +1,6 @@
+D:\CentennialCollege\Sem-3\COMP_397_Final_Game_Project\COMP_397_Final_Game_Project\bin\COMP_397_Final_Game_Project.dll.config
+D:\CentennialCollege\Sem-3\COMP_397_Final_Game_Project\COMP_397_Final_Game_Project\bin\COMP_397_Final_Game_Project.dll
+D:\CentennialCollege\Sem-3\COMP_397_Final_Game_Project\COMP_397_Final_Game_Project\bin\COMP_397_Final_Game_Project.pdb
+D:\CentennialCollege\Sem-3\COMP_397_Final_Game_Project\COMP_397_Final_Game_Project\obj\Debug\COMP_397_Final_Game_Project.csprojResolveAssemblyReference.cache
+D:\CentennialCollege\Sem-3\COMP_397_Final_Game_Project\COMP_397_Final_Game_Project\obj\Debug\COMP_397_Final_Game_Project.dll
+D:\CentennialCollege\Sem-3\COMP_397_Final_Game_Project\COMP_397_Final_Game_Project\obj\Debug\COMP_397_Final_Game_Project.pdb
